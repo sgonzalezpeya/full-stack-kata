@@ -35,18 +35,32 @@ npm run test
 - The API may fail anytime
 - The API may take up to 3 seconds to respond
 
-### [GET] /api/cars?p={pageNumber}
+### [GET] /api/cars
 
-> Returns a paginated list of cars
+> Returns a list of cars
 
 ```javascript
-{
-  currentPage: 1,
-  data: [{...}, {...}],
-  perPage: 100,
-  total: 1000,
-  totalPages: 10
-}
+[
+  {
+    id: 1,
+    make: "Mercedes-Benz",
+    model: "E-Class",
+    year: 1990,
+    color: "#2e904d",
+    thumbnail: "http://dummyimage.com/174x138.png/cc0000/ffffff",
+    starred: false,
+  },
+  {...}
+  {
+    id: 25,
+    make: "Suzuki",
+    model: "Grand Vitara",
+    year: 2005,
+    color: "#f16882",
+    thumbnail: "http://dummyimage.com/216x187.png/dddddd/000000",
+    starred: true,
+  },
+];
 ```
 
 ### [GET] /api/cars/:carId
@@ -60,7 +74,8 @@ npm run test
   model:"Compass",
   year:2010,
   color:"#19b4b3",
-  thumbnail:"http://dummyimage.com/101x229.png/5fa2dd/ffffff"
+  thumbnail:"http://dummyimage.com/101x229.png/5fa2dd/ffffff",
+  starred: false,
 }
 ```
 

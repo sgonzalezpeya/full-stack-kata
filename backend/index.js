@@ -5,6 +5,7 @@ const randomFailureMiddleware = require("./randomFailureMiddleware");
 const randomDelay = require("./randomDelay");
 
 const database = require("./database.json");
+const e = require("express");
 
 const app = express();
 const port = 8084;
@@ -15,7 +16,8 @@ app.use(randomFailureMiddleware(0.2));
 
 app.get("/api/cars", (req, res) => {
   const page = req.query.p;
-  res.json(paginate(database, page, 100));
+  if (!page) res.json(database);
+  else res.json(paginate(database, page, 100));
 });
 
 app.get("/api/cars/:id", (req, res) => {
