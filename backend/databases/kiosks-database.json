@@ -1,0 +1,302 @@
+[
+  {
+    "id": 64021,
+    "vendor": "El Jevi - Balvanera",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 141656,
+    "vendor": "365 Kiosco Arenales",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 166174,
+    "vendor": "Kiosco El 22",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 138754,
+    "vendor": "Kiosco Cartu 724 Obelisco",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 176986,
+    "vendor": "Zeus Drugstore - Callao",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 136126,
+    "vendor": "Kiosco Bs As Express Callao 779",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 139221,
+    "vendor": "Bro Shop",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 187357,
+    "vendor": "Las Heras 1955",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 90222,
+    "vendor": "Arcor Center",
+    "categories": "Kioskos",
+    "rating": "0",
+    "eta": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 154240,
+    "vendor": "Open Candy Galerias Pacifico",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 156251,
+    "vendor": "Kioscos Open Ya - Alvear",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 160622,
+    "vendor": "Alto Kiosco",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 157545,
+    "vendor": "Candy Night Uriburu",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 170391,
+    "vendor": "Kiosco  \"hola\"",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 178450,
+    "vendor": "Multistor",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 69,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 156131,
+    "vendor": "Kiosco Variaté",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 192823,
+    "vendor": "YPF - Retiro 3259 Opessa",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 156917,
+    "vendor": "Kiosco El Legado - Lavalle",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 69,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 155298,
+    "vendor": "Maxikiosco Paso a Paso - Pasteur",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 69,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 151959,
+    "vendor": "Kiosco Almacén",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 69,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 155317,
+    "vendor": "Kiosco Los Rulos",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 69,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 159489,
+    "vendor": "Kiosco Detodo",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 170683,
+    "vendor": "Zeus Drugstore - Larrea",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 147196,
+    "vendor": "Spot! Las Heras AXION Energy",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 160112,
+    "vendor": "Kiosco Atomik",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 69,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 161018,
+    "vendor": "Renata Express Kiosco Natural",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 156889,
+    "vendor": "Kiosco El Legado - Belgrano",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 69,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 187399,
+    "vendor": "Kiosco La Nona",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 30' y 45'",
+    "shippingAmount": 69,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 160142,
+    "vendor": "Kiosco Horizontes - Av. Entre Rios",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 69,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 171065,
+    "vendor": "Maxikiosco Kerubin",
+    "categories": "",
+    "rating": "0",
+    "eta": "Entre 15' y 30'",
+    "shippingAmount": 35,
+    "discount": 0,
+    "isNew": false
+  }
+]

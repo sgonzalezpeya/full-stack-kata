@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 136539,
+    "name": "Pizzería Squzi",
+    "allCategories": "Empanadas,Pizzas,Tartas,Pastas",
+    "ratingScore": "4.42",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 143023,
+    "name": "Vittore - Centro",
+    "allCategories": "Helados",
+    "ratingScore": "4.64",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 170106,
+    "name": "Conti's - Centro",
+    "allCategories": "Helados,Pizzas",
+    "ratingScore": "4.36",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 31452,
+    "name": "Biblos",
+    "allCategories": "Parrilla,Pizzas,Empanadas,Pastas,Hamburguesas,Ensaladas,Pollo,Pescados y Mariscos,Bebidas",
+    "ratingScore": "4.67",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 156257,
+    "name": "Honorio Resto & Coffe - Recoleta",
+    "allCategories": "Pescados y Mariscos,Hamburguesas,Pastas,Ensaladas,Carnes,Bebidas,Milanesas",
+    "ratingScore": "4.47",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 151734,
+    "name": "Amelie Bar - Café",
+    "allCategories": "Cafetería,Postres,Desayunos,Sándwiches,Milanesas,Ensaladas,Pastas,Carnes,Menú del día",
+    "ratingScore": "5.00",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 131173,
+    "name": "Kentucky - Talcahuano",
+    "allCategories": "Empanadas,Postres,Bebidas,Pizzas",
+    "ratingScore": "4.16",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 150183,
+    "name": "Che Muzza - Talcahuano",
+    "allCategories": "Bebidas,Pizzas,Empanadas",
+    "ratingScore": "4.52",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 170703,
+    "name": "Chungo Recoleta",
+    "allCategories": "Postres,Ensaladas,Helados,Sándwiches",
+    "ratingScore": "4.54",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 163338,
+    "name": "Tangos Burger",
+    "allCategories": "Pollo,Sándwiches,Hamburguesas,Milanesas,Postres",
+    "ratingScore": "4.37",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 10,
+    "isNew": false
+  },
+  {
+    "id": 129172,
+    "name": "Joropo Fast Food",
+    "allCategories": "Comida Internacional,Parrilla,Pollo,Hamburguesas,Ensaladas,Postres",
+    "ratingScore": "4.49",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 10,
+    "isNew": false
+  },
+  {
+    "id": 155262,
+    "name": "Le Moulin de la Fleur - Talcahuano",
+    "allCategories": "Sándwiches,Cafetería,Tartas",
+    "ratingScore": "4.23",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 113354,
+    "name": "Cafe Bar El Teatro",
+    "allCategories": "Pollo,Ensaladas,Menú del día,Milanesas,Carnes",
+    "ratingScore": "4.88",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 164921,
+    "name": "Gros Café & Resto",
+    "allCategories": "Sándwiches,Desayunos,Carnes,Pastas,Pollo,Bebidas",
+    "ratingScore": "0",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 178933,
+    "name": "Olivio Resto",
+    "allCategories": "Bebidas,Hamburguesas,Desayunos,Pizzas",
+    "ratingScore": "4.58",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 150686,
+    "name": "Los Inmortales - Paraná",
+    "allCategories": "Empanadas,Carnes,Pizzas,Pastas",
+    "ratingScore": "4.53",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 189811,
+    "name": "Tomasso. M. T. de Alvear",
+    "allCategories": "Bebidas,Empanadas,Pizzas",
+    "ratingScore": "4.48",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 56777,
+    "name": "Freddo Santa Fe y Suipacha",
+    "allCategories": "Cupcakes,Postres,Helados",
+    "ratingScore": "4.73",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 123442,
+    "name": "Josephinas Café",
+    "allCategories": "Sándwiches,Empanadas,Ensaladas,Postres,Pastas,Carnes,Bebidas",
+    "ratingScore": "3.98",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 103635,
+    "name": "Natacha",
+    "allCategories": "Pizzas,Pastas,Ensaladas,Pollo,Empanadas,Carnes,Cafetería,Postres",
+    "ratingScore": "4.25",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 128695,
+    "name": "Tostado Café Club Santa Fé",
+    "allCategories": "Licuados y Jugos,Postres,Sándwiches,Cafetería,Ensaladas",
+    "ratingScore": "4.32",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 30,
+    "isNew": false
+  },
+  {
+    "id": 149009,
+    "name": "Guru Makers Av. Santa Fe",
+    "allCategories": "Pollo,Bebidas,Milanesas",
+    "ratingScore": "3.35",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 145657,
+    "name": "Convite Recoleta",
+    "allCategories": "Cafetería,Empanadas,Postres,Sándwiches,Desayunos",
+    "ratingScore": "4.52",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 68442,
+    "name": "McDonald's Uruguay 790 (TRI)",
+    "allCategories": "Desayunos,Hamburguesas,Pollo,Postres",
+    "ratingScore": "4.49",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 160278,
+    "name": "Exedra",
+    "allCategories": "Hamburguesas,Ensaladas,Milanesas,Carnes,Tortillas,Pollo,Pescados y Mariscos,Pastas",
+    "ratingScore": "4.00",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 130440,
+    "name": "Poké And Roll II",
+    "allCategories": "Poke,Comida Vegetariana,Comida Árabe",
+    "ratingScore": "4.45",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 10,
+    "isNew": false
+  },
+  {
+    "id": 121124,
+    "name": "Nubes",
+    "allCategories": "Pizzas,Arepas,Comida Internacional,Empanadas",
+    "ratingScore": "4.45",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 55461,
+    "name": "Mundo Salad Tribunales",
+    "allCategories": "Comida Vegetariana,Licuados y Jugos,Pollo,Sushi,Ensaladas,Comida Mexicana,Wraps,Comida Árabe,Postres",
+    "ratingScore": "4.67",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 134698,
+    "name": "Las Esclavas Gourmet",
+    "allCategories": "Menú del día,Hamburguesas,Tartas,Milanesas",
+    "ratingScore": "4.53",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 128721,
+    "name": "Tostado Café Club Cordoba",
+    "allCategories": "Postres,Cafetería,Sándwiches,Licuados y Jugos,Ensaladas",
+    "ratingScore": "3.99",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 30,
+    "isNew": false
+  },
+  {
+    "id": 157759,
+    "name": "Mostaza Pellegrini",
+    "allCategories": "Hamburguesas,Pollo,Helados",
+    "ratingScore": "4.72",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 58582,
+    "name": "Sempre",
+    "allCategories": "Licuados y Jugos,Pizzas,Sándwiches,Cafetería,Ensaladas,Pastas",
+    "ratingScore": "0",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 59,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 164148,
+    "name": "Manjar Criollo",
+    "allCategories": "Pizzas,Cafetería,Empanadas,Tartas",
+    "ratingScore": "4.40",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 119379,
+    "name": "On Tap Retiro",
+    "allCategories": "Comida Mexicana,Bebidas,Hamburguesas,Pollo",
+    "ratingScore": "0",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 134978,
+    "name": "Las Esclavas Panadería Juncal",
+    "allCategories": "Sándwiches,Postres,Tartas,Desayunos",
+    "ratingScore": "4.35",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 143303,
+    "name": "GOUT Gluten Free - Recoleta",
+    "allCategories": "Celíacos,Postres,Empanadas,Cupcakes",
+    "ratingScore": "4.78",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 155500,
+    "name": "Bagels & Bagels Bellini",
+    "allCategories": "Desayunos,Bebidas,Pescados y Mariscos,Pollo",
+    "ratingScore": "4.83",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 120894,
+    "name": "Fábrica De Pizzas - Barrio Norte",
+    "allCategories": "Empanadas,Pizzas",
+    "ratingScore": "4.52",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 145853,
+    "name": "Dandy Microcentro",
+    "allCategories": "Pizzas,Cafetería,Sándwiches,Postres",
+    "ratingScore": "3.89",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 223,
+    "name": "Tea Connection Montevideo",
+    "allCategories": "",
+    "ratingScore": "4.33",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 54151,
+    "name": "Green Eat Santa Fe",
+    "allCategories": "Sándwiches,Desayunos,Cafetería,Postres,Hamburguesas,Helados",
+    "ratingScore": "4.66",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 171432,
+    "name": "Mamá Cora Santa Fe",
+    "allCategories": "Pastas,Postres,Bebidas",
+    "ratingScore": "4.13",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 158514,
+    "name": "Clarísimo",
+    "allCategories": "Pastas,Crepes",
+    "ratingScore": "5.00",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 170554,
+    "name": "Vanilla Food",
+    "allCategories": "Hamburguesas,Wraps,Postres,Pizzas",
+    "ratingScore": "4.70",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 133978,
+    "name": "Don Nino Cafetería - Resto Bar",
+    "allCategories": "Empanadas,Arepas,Carnes,Hamburguesas,Comida Internacional",
+    "ratingScore": "4.58",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 64947,
+    "name": "Saint Moritz",
+    "allCategories": "Menú del día,Ensaladas,Postres,Sándwiches,Pastas",
+    "ratingScore": "0",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 147767,
+    "name": "La Olla De Felix",
+    "allCategories": "Empanadas,Ensaladas,Pescados y Mariscos,Carnes,Pastas,Bebidas,Postres",
+    "ratingScore": "4.53",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 1172,
+    "name": "La Posta de los Tucu",
+    "allCategories": "Tortillas,Sándwiches,Pescados y Mariscos,Ensaladas,Postres,Empanadas,Carnes,Pastas,Milanesas,Lomitos",
+    "ratingScore": "4.50",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 164073,
+    "name": "Bar Uno Suipacha",
+    "allCategories": "Tartas,Empanadas,Pastas,Pollo,Pescados y Mariscos",
+    "ratingScore": "4.60",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 129023,
+    "name": "Santal Deli and Coffee",
+    "allCategories": "Cafetería,Licuados y Jugos,Sándwiches,Postres,Menú del día",
+    "ratingScore": "4.35",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 57321,
+    "name": "Empanairo",
+    "allCategories": "Empanadas,Cafetería,Hamburguesas,Bebidas,Pizzas",
+    "ratingScore": "4.62",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 152172,
+    "name": "Squzi",
+    "allCategories": "Carnes,Tortillas,Pastas,Pollo,Milanesas,Pescados y Mariscos",
+    "ratingScore": "4.47",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 183247,
+    "name": "Go Salads - Microcentro",
+    "allCategories": "Pescados y Mariscos,Sushi,Ensaladas,Comida Vegetariana,Wraps",
+    "ratingScore": "4.80",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 122042,
+    "name": "Otaku Sushi Microcentro",
+    "allCategories": "Sushi,Comida Peruana",
+    "ratingScore": "4.60",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 30,
+    "isNew": false
+  },
+  {
+    "id": 139741,
+    "name": "Karma Sushi - Microcentro",
+    "allCategories": "Sushi,Pollo,Comida China,Comida Japonesa,Pescados y Mariscos,Wraps",
+    "ratingScore": "4.53",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 140889,
+    "name": "Teik It - Microcentro",
+    "allCategories": "Sushi,Wraps,Comida Vegetariana,Pollo,Comida China",
+    "ratingScore": "4.22",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 30,
+    "isNew": false
+  },
+  {
+    "id": 174647,
+    "name": "Resto The Coffee Store - San Nicolas",
+    "allCategories": "Pastas,Licuados y Jugos,Sándwiches",
+    "ratingScore": "5.00",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 109192,
+    "name": "Clemenza Pastas",
+    "allCategories": "Pastas,Bebidas,Licuados y Jugos",
+    "ratingScore": "4.40",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 10,
+    "isNew": false
+  },
+  {
+    "id": 158937,
+    "name": "Deliwok",
+    "allCategories": "Comida China,Pastas,Pollo,Milanesas,Carnes",
+    "ratingScore": "4.36",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 146659,
+    "name": "Maru Botana - Suipacha",
+    "allCategories": "Postres,Tartas,Sándwiches,Pastas,Menú del día",
+    "ratingScore": "4.43",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 139952,
+    "name": "Los Quesos",
+    "allCategories": "Picadas,Sándwiches,Lomitos",
+    "ratingScore": "4.55",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 193644,
+    "name": "Bar Subterráneo",
+    "allCategories": "Pollo,Sándwiches,Hamburguesas,Pizzas,Cafetería",
+    "ratingScore": "5.00",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 186399,
+    "name": "Places",
+    "allCategories": "Milanesas,Empanadas,Hamburguesas,Carnes,Pizzas,Pollo",
+    "ratingScore": "4.25",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 155291,
+    "name": "Le Moulin de la Fleur - R. Peña",
+    "allCategories": "Cafetería,Sándwiches,Tartas",
+    "ratingScore": "3.83",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 156553,
+    "name": "Cook and roll Natural - Viamonte",
+    "allCategories": "Postres,Hamburguesas,Wraps,Ensaladas,Woks",
+    "ratingScore": "4.00",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 175484,
+    "name": "The Sándwich Market",
+    "allCategories": "Desayunos,Sándwiches,Menú del día,Tartas",
+    "ratingScore": "4.58",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 183220,
+    "name": "The Market Sandwich Sucursal Cordoba",
+    "allCategories": "Tartas,Sándwiches,Milanesas,Ensaladas,Postres,Desayunos,Menú del día",
+    "ratingScore": "0",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 149799,
+    "name": "Club Del Helado - Recoleta",
+    "allCategories": "Helados,Postres",
+    "ratingScore": "4.78",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 51135,
+    "name": "Pasadena, cocina porteña",
+    "allCategories": "Milanesas,Hamburguesas,Carnes,Pollo,Pescados y Mariscos,Tortillas,Empanadas,Pastas,Woks",
+    "ratingScore": "4.36",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 57837,
+    "name": "Sabores Arabes Recoleta",
+    "allCategories": "Bebidas,Comida Árabe,Sándwiches,Postres",
+    "ratingScore": "4.55",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 123963,
+    "name": "Un Loco Bar",
+    "allCategories": "Cafetería,Milanesas,Pizzas,Empanadas,Pastas",
+    "ratingScore": "4.85",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 118194,
+    "name": "Café Ditali",
+    "allCategories": "Pizzas,Cafetería,Postres,Empanadas,Pollo,Ensaladas",
+    "ratingScore": "4.86",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 152261,
+    "name": "Petit Colon - Café Notable de Buenos Aires",
+    "allCategories": "Pastas,Cafetería,Sándwiches,Pollo,Tortillas,Pizzas",
+    "ratingScore": "4.50",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 116598,
+    "name": "Metro Café",
+    "allCategories": "Empanadas,Tartas,Sándwiches,Pizzas,Ensaladas,Milanesas,Hamburguesas",
+    "ratingScore": "0",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 34368,
+    "name": "Sushi Station Obelisco",
+    "allCategories": "Comida Vegetariana,Tartas,Pescados y Mariscos,Comida Japonesa,Pollo,Sushi,Comida China",
+    "ratingScore": "4.56",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 147975,
+    "name": "Anamora",
+    "allCategories": "Ensaladas,Postres,Empanadas,Sándwiches,Pollo",
+    "ratingScore": "4.88",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 102986,
+    "name": "Sándwich del Club Barrio Norte",
+    "allCategories": "Papas Fritas,Celíacos,Sándwiches,Comida Vegetariana,Wraps",
+    "ratingScore": "4.55",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 124848,
+    "name": "Holy Mila Barrio Norte",
+    "allCategories": "Ensaladas,Bebidas,Postres,Comida Mexicana,Milanesas,Papas Fritas",
+    "ratingScore": "4.22",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 46536,
+    "name": "Pizza Yerman Rodríguez Peña",
+    "allCategories": "Pizzas,Empanadas,Tartas,Bebidas",
+    "ratingScore": "4.36",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 17058,
+    "name": "Pizza Yerman Uriburu",
+    "allCategories": "Pizzas,Empanadas,Bebidas,Tartas",
+    "ratingScore": "4.24",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 148665,
+    "name": "Pekin Microcentro",
+    "allCategories": "Carnes,Sopas,Pescados y Mariscos,Pollo,Comida China,Pastas,Milanesas",
+    "ratingScore": "4.23",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 25,
+    "isNew": false
+  },
+  {
+    "id": 33946,
+    "name": "El Club de la Milanesa Barrio Norte",
+    "allCategories": "Milanesas,Helados",
+    "ratingScore": "4.53",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 112935,
+    "name": "El Imperio del Fiambre",
+    "allCategories": "Picadas,Bebidas,Lomitos",
+    "ratingScore": "4.22",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 151312,
+    "name": "Malvón San Nicolás",
+    "allCategories": "Cafetería,Cupcakes,Postres",
+    "ratingScore": "4.20",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 176078,
+    "name": "Pasta Rossa - Resto",
+    "allCategories": "Pastas,Celíacos",
+    "ratingScore": "4.15",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 118469,
+    "name": "Sándwich Tucumán",
+    "allCategories": "Sándwiches,Ensaladas,Empanadas,Tartas,Picadas,Pollo",
+    "ratingScore": "4.49",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 3496,
+    "name": "Azul Profundo Retiro",
+    "allCategories": "Sushi,Comida Japonesa,Comida Peruana,Postres,Woks,Helados,Bebidas,Pescados y Mariscos",
+    "ratingScore": "4.57",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 10,
+    "isNew": false
+  },
+  {
+    "id": 56855,
+    "name": "Parados Urban Food",
+    "allCategories": "Bebidas,Papas Fritas,Hamburguesas,Parrilla,Empanadas,Arepas,Menú del día",
+    "ratingScore": "4.00",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 24374,
+    "name": "Un Altra Volta Recoleta",
+    "allCategories": "Helados,Comida Vegana,Postres,Cupcakes",
+    "ratingScore": "4.29",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 154578,
+    "name": "Medialunas De La Nonna",
+    "allCategories": "Licuados y Jugos,Cafetería,Comida Vegana",
+    "ratingScore": "5.00",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 62933,
+    "name": "Empanadas Express - Suipacha",
+    "allCategories": "Empanadas,Cafetería",
+    "ratingScore": "4.35",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 52341,
+    "name": "La Causa Nikkei Recoleta",
+    "allCategories": "Sushi,Comida Peruana",
+    "ratingScore": "4.18",
+    "deliveryTime": "Entre 60' y 90'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 191102,
+    "name": "Il Salvatore - Recoleta",
+    "allCategories": "Bebidas,Empanadas,Pizzas,Postres",
+    "ratingScore": "3.23",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 44745,
+    "name": "Subway Obelisco - 63513",
+    "allCategories": "Ensaladas,Sándwiches,Comida Vegetariana,Pollo,Carnes",
+    "ratingScore": "4.69",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 167092,
+    "name": "Café Martínez - Uruguay 463 Restaurant",
+    "allCategories": "Sándwiches,Postres,Ensaladas,Licuados y Jugos,Pollo",
+    "ratingScore": "4.35",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 6316,
+    "name": "Burger King  Obelisco",
+    "allCategories": "Hamburguesas,Pollo,Desayunos,Papas Fritas,Postres",
+    "ratingScore": "4.35",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 54803,
+    "name": "McDonald's Lavalle 900 (LAV)",
+    "allCategories": "Hamburguesas,Desayunos,Sándwiches,Pollo,Postres",
+    "ratingScore": "4.48",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 190146,
+    "name": "Sabores Express Microcentro",
+    "allCategories": "Empanadas,Pizzas",
+    "ratingScore": "4.53",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 63691,
+    "name": "Liber",
+    "allCategories": "Hamburguesas,Pastas,Postres,Ensaladas,Bebidas,Pizzas,Pescados y Mariscos,Empanadas,Parrilla",
+    "ratingScore": "4.78",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 59265,
+    "name": "Pizzeria la Torre de Retiro",
+    "allCategories": "Pizzas,Empanadas,Milanesas,Sándwiches,Pollo,Pastas,Cafetería,Tortillas",
+    "ratingScore": "4.46",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 65283,
+    "name": "Ouro Preto",
+    "allCategories": "Picadas,Lomitos,Sándwiches,Tartas,Hamburguesas,Ensaladas,Empanadas,Postres,Cafetería,Desayunos,Papas Fritas",
+    "ratingScore": "4.31",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 105909,
+    "name": "Pizza Roma",
+    "allCategories": "Pizzas,Milanesas,Empanadas,Pastas,Sándwiches,Tartas,Postres",
+    "ratingScore": "4.63",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 151382,
+    "name": "Buenos Aires Grill",
+    "allCategories": "Pastas,Carnes,Parrilla,Milanesas",
+    "ratingScore": "4.71",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 128711,
+    "name": "Tostado Café Club Callao",
+    "allCategories": "Sándwiches,Postres,Cafetería,Licuados y Jugos,Ensaladas",
+    "ratingScore": "4.57",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 30,
+    "isNew": false
+  },
+  {
+    "id": 25364,
+    "name": "Persicco Salguero",
+    "allCategories": "Postres,Helados",
+    "ratingScore": "4.37",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 51138,
+    "name": "Perez H - Microcentro",
+    "allCategories": "Bebidas,Papas Fritas,Hamburguesas",
+    "ratingScore": "4.29",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 107148,
+    "name": "Persicco Riobamba",
+    "allCategories": "Helados",
+    "ratingScore": "4.31",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 165441,
+    "name": "Marindia",
+    "allCategories": "Tartas,Pastas,Desayunos,Pollo,Milanesas,Ensaladas,Sándwiches,Empanadas",
+    "ratingScore": "4.70",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 113213,
+    "name": "Simple & Co - Riobamba",
+    "allCategories": "Tartas,Celíacos,Licuados y Jugos,Empanadas,Comida Vegetariana,Ensaladas,Helados,Pollo,Comida Vegana",
+    "ratingScore": "4.68",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 159659,
+    "name": "L Carra",
+    "allCategories": "Milanesas,Wraps,Pastas,Ensaladas,Hamburguesas,Postres",
+    "ratingScore": "5.00",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 53924,
+    "name": "Pizza Alla Pala Av. Córdoba",
+    "allCategories": "Bebidas,Empanadas,Ensaladas,Pizzas,Menú del día",
+    "ratingScore": "4.55",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 167768,
+    "name": "La Casona Del Nonno",
+    "allCategories": "Milanesas,Carnes,Pollo,Parrilla,Pastas,Pizzas",
+    "ratingScore": "4.40",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 79,
+    "discount": 30,
+    "isNew": false
+  },
+  {
+    "id": 173410,
+    "name": "Buenos Aires Grill (Av. Corrientes)",
+    "allCategories": "Pollo,Pastas,Parrilla,Carnes,Postres,Milanesas,Pescados y Mariscos,Papas Fritas",
+    "ratingScore": "4.61",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 128701,
+    "name": "Tostado Cafe Club Obelisco",
+    "allCategories": "Postres,Cafetería,Sándwiches,Licuados y Jugos,Ensaladas",
+    "ratingScore": "4.31",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 30,
+    "isNew": false
+  },
+  {
+    "id": 145219,
+    "name": "Luqét Gourmet",
+    "allCategories": "Ensaladas,Menú del día",
+    "ratingScore": "4.95",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 147080,
+    "name": "UyU Empanadas",
+    "allCategories": "Tartas,Pollo,Pastas,Ensaladas,Sándwiches,Empanadas,Desayunos",
+    "ratingScore": "4.63",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 131148,
+    "name": "Kentucky - Obelisco",
+    "allCategories": "Postres,Pizzas,Bebidas,Empanadas",
+    "ratingScore": "4.07",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 123884,
+    "name": "Cafe Bar 360",
+    "allCategories": "Empanadas,Milanesas,Desayunos,Licuados y Jugos,Tartas,Ensaladas,Carnes,Tortillas,Sándwiches",
+    "ratingScore": "4.56",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 17500,
+    "name": "Angélica",
+    "allCategories": "Pizzas,Empanadas,Tartas,Bebidas",
+    "ratingScore": "4.56",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 101005,
+    "name": "Angélica Recoleta",
+    "allCategories": "Pizzas,Empanadas,Cafetería",
+    "ratingScore": "4.57",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 136147,
+    "name": "KFC Galerías Pacífico",
+    "allCategories": "Cafetería,Papas Fritas,Sándwiches,Sushi,Pollo,Helados",
+    "ratingScore": "4.14",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 113519,
+    "name": "Lucciano's Galerías Pacífico Florida",
+    "allCategories": "Helados,Comida Vegana,Postres,Celíacos",
+    "ratingScore": "5.00",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 34150,
+    "name": "Un Altra Volta Quintana",
+    "allCategories": "Comida Vegana,Postres,Cupcakes,Helados",
+    "ratingScore": "4.51",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 2785,
+    "name": "Morita Barrio Norte",
+    "allCategories": "Empanadas,Pizzas,Bebidas",
+    "ratingScore": "4.23",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 104833,
+    "name": "Cümen-Cümen Empanadas Recoleta",
+    "allCategories": "Empanadas,Bebidas,Postres",
+    "ratingScore": "4.54",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 178558,
+    "name": "I Love Itali",
+    "allCategories": "Pizzas,Bebidas,Pastas",
+    "ratingScore": "0",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 150910,
+    "name": "Pizzería Serafín",
+    "allCategories": "Empanadas,Bebidas,Postres,Pizzas,Cafetería",
+    "ratingScore": "4.64",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 65092,
+    "name": "Bravo",
+    "allCategories": "Arepas,Sándwiches,Hamburguesas,Bebidas,Comida Internacional",
+    "ratingScore": "3.57",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 170990,
+    "name": "La Guitarrita Microcentro",
+    "allCategories": "Pizzas,Empanadas",
+    "ratingScore": "4.10",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 4865,
+    "name": "Diechi Helados",
+    "allCategories": "Helados",
+    "ratingScore": "4.60",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 41843,
+    "name": "Arenales Resto & Coffee",
+    "allCategories": "Ensaladas,Sándwiches,Pastas,Parrilla,Empanadas,Pizzas,Pollo,Pescados y Mariscos,Carnes",
+    "ratingScore": "4.38",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 408,
+    "name": "Los Maestros Recoleta",
+    "allCategories": "Pizzas,Empanadas,Postres,Helados,Bebidas,Tartas",
+    "ratingScore": "4.58",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 33488,
+    "name": "Crazy Cheese",
+    "allCategories": "Empanadas,Pollo,Pizzas,Ensaladas,Postres,Bebidas,Tartas,Milanesas",
+    "ratingScore": "4.55",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 738,
+    "name": "Rigoletto Restaurant",
+    "allCategories": "Menú del día,Milanesas,Pastas,Pescados y Mariscos,Ensaladas,Pollo,Empanadas,Bebidas,Postres",
+    "ratingScore": "4.51",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 18074,
+    "name": "La Farola de Santa Fé",
+    "allCategories": "Sándwiches,Bebidas,Ensaladas,Milanesas,Postres,Tortillas,Pizzas",
+    "ratingScore": "4.45",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 2203,
+    "name": "Babieca",
+    "allCategories": "Empanadas,Pizzas,Milanesas,Pastas,Parrilla,Tartas,Carnes,Postres,Bebidas,Calzones,Papas Fritas",
+    "ratingScore": "4.61",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 188664,
+    "name": "Bien Buena - Microcentro",
+    "allCategories": "Empanadas",
+    "ratingScore": "4.30",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 109672,
+    "name": "Luba Cafe Store",
+    "allCategories": "Licuados y Jugos,Pastas,Ensaladas,Pescados y Mariscos,Poke,Sándwiches,Menú del día,Postres,Wraps",
+    "ratingScore": "3.30",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 58865,
+    "name": "Pizzeria Genova Av. Corrientes",
+    "allCategories": "Pizzas,Cafetería,Postres,Empanadas,Sándwiches",
+    "ratingScore": "4.48",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 79,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 63800,
+    "name": "El SanguCHE",
+    "allCategories": "Hamburguesas,Cafetería,Pizzas,Sándwiches,Empanadas,Bebidas,Licuados y Jugos",
+    "ratingScore": "4.14",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 183204,
+    "name": "Dr. Papa Microcentro",
+    "allCategories": "Ensaladas,Bebidas,Papas Fritas,Wraps,Pollo",
+    "ratingScore": "4.20",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 163593,
+    "name": "Santa Mila Centro",
+    "allCategories": "Milanesas,Hamburguesas,Papas Fritas",
+    "ratingScore": "4.44",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 134115,
+    "name": "Tostado Cafe Club Peña",
+    "allCategories": "Licuados y Jugos,Postres,Cafetería,Sándwiches,Ensaladas",
+    "ratingScore": "4.36",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 30,
+    "isNew": false
+  },
+  {
+    "id": 150116,
+    "name": "Freddo Guido",
+    "allCategories": "Helados,Postres",
+    "ratingScore": "4.46",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 140268,
+    "name": "Monasterio Patio Gourmet",
+    "allCategories": "Postres,Wraps,Pollo,Tartas,Ensaladas,Menú del día,Hamburguesas,Papas Fritas",
+    "ratingScore": "4.62",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 139547,
+    "name": "Karma sushi - Recoleta",
+    "allCategories": "Pescados y Mariscos,Sushi,Comida China,Wraps,Pollo,Comida Japonesa",
+    "ratingScore": "4.29",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 140646,
+    "name": "Teik It - Recoleta",
+    "allCategories": "Sushi,Wraps,Comida Vegetariana",
+    "ratingScore": "3.00",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 183249,
+    "name": "Go Salads - Recoleta",
+    "allCategories": "Pescados y Mariscos,Sushi,Comida Vegetariana,Ensaladas,Wraps",
+    "ratingScore": "4.15",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 155784,
+    "name": "Persicco Quintana",
+    "allCategories": "Helados",
+    "ratingScore": "4.54",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 154396,
+    "name": "La Choripaneria - Reconquista",
+    "allCategories": "Parrilla,Papas Fritas,Bebidas,Sándwiches",
+    "ratingScore": "4.63",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 184510,
+    "name": "Tenshi Sushi",
+    "allCategories": "Sushi,Comida Japonesa",
+    "ratingScore": "4.61",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 10,
+    "isNew": false
+  },
+  {
+    "id": 171175,
+    "name": "Café Martínez - Sarmiento 1406 Restaurant",
+    "allCategories": "Pollo,Postres,Ensaladas,Licuados y Jugos,Sándwiches",
+    "ratingScore": "0",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 167184,
+    "name": "Cafe Bar Venezuela",
+    "allCategories": "Arepas,Empanadas,Parrilla",
+    "ratingScore": "4.66",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 145051,
+    "name": "BUONO ITALIAN KITCHEN",
+    "allCategories": "Sándwiches,Carnes,Pastas,Ensaladas,Postres,Bebidas,Hamburguesas",
+    "ratingScore": "4.79",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 155150,
+    "name": "Flymorfi Sarmiento",
+    "allCategories": "Sándwiches,Pizzas,Bebidas,Empanadas",
+    "ratingScore": "4.70",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 198931,
+    "name": "Tomasso Sarmiento",
+    "allCategories": "Pizzas,Empanadas,Bebidas",
+    "ratingScore": "5.00",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 191033,
+    "name": "Citadeli Sarmiento",
+    "allCategories": "Empanadas,Postres,Pizzas,Bebidas",
+    "ratingScore": "4.00",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 196343,
+    "name": "Greenwoods",
+    "allCategories": "Cafetería,Ensaladas,Postres,Pastas,Licuados y Jugos",
+    "ratingScore": "4.88",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 49946,
+    "name": "Big Bam Boo",
+    "allCategories": "Comida Peruana,Comida Vegetariana,Pescados y Mariscos,Woks,Sopas,Pollo,Ensaladas",
+    "ratingScore": "4.70",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 154015,
+    "name": "Al Mediodía",
+    "allCategories": "Milanesas,Tartas,Sándwiches,Empanadas",
+    "ratingScore": "5.00",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 1141,
+    "name": "Al Club",
+    "allCategories": "Milanesas,Sándwiches,Pizzas,Tartas,Empanadas,Pastas,Hamburguesas,Tortillas",
+    "ratingScore": "4.67",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 146347,
+    "name": "Oink",
+    "allCategories": "Sándwiches",
+    "ratingScore": "4.69",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 182495,
+    "name": "Mineral",
+    "allCategories": "Postres,Sándwiches,Ensaladas,Wraps",
+    "ratingScore": "4.74",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 162706,
+    "name": "Puerta Del Sol - San Nicolás",
+    "allCategories": "Carnes,Hamburguesas,Pollo,Milanesas,Empanadas,Pastas,Pizzas",
+    "ratingScore": "4.00",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 174683,
+    "name": "Siempre Verde - Recoleta",
+    "allCategories": "Empanadas,Bebidas,Comida China,Carnes,Comida Vegetariana,Ensaladas,Milanesas,Menú del día",
+    "ratingScore": "3.15",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 53983,
+    "name": "Sushi Mix Market Microcentro",
+    "allCategories": "Poke,Pescados y Mariscos,Comida Vegetariana,Comida China,Wraps,Sushi",
+    "ratingScore": "4.86",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 20,
+    "isNew": false
+  },
+  {
+    "id": 132568,
+    "name": "Natural Factory",
+    "allCategories": "Menú del día,Sushi,Poke,Wraps,Woks",
+    "ratingScore": "4.97",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 20,
+    "isNew": false
+  },
+  {
+    "id": 139648,
+    "name": "Sushi Mix San Martin",
+    "allCategories": "Sushi,Menú del día,Poke,Comida Vegetariana,Comida China,Pescados y Mariscos,Wraps",
+    "ratingScore": "4.83",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 20,
+    "isNew": false
+  },
+  {
+    "id": 162419,
+    "name": "Sushitas Microcentro",
+    "allCategories": "Wraps,Comida Vegetariana,Sushi",
+    "ratingScore": "0",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 47986,
+    "name": "Costa Verde",
+    "allCategories": "Milanesas,Empanadas,Hamburguesas,Pizzas,Sándwiches,Pastas",
+    "ratingScore": "4.58",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 164799,
+    "name": "Inside Corrientes",
+    "allCategories": "Cafetería,Licuados y Jugos,Hamburguesas,Sándwiches,Lomitos,Bebidas",
+    "ratingScore": "4.30",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 122795,
+    "name": "Brozziano Empanadas - Recoleta",
+    "allCategories": "Pizzas,Empanadas",
+    "ratingScore": "4.37",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 189523,
+    "name": "Cataffoods - Tequeños",
+    "allCategories": "Comida Internacional,Milanesas,Hamburguesas,Empanadas,Arepas",
+    "ratingScore": "4.24",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 151116,
+    "name": "Mordisquito",
+    "allCategories": "Ensaladas,Wraps,Empanadas,Sándwiches",
+    "ratingScore": "4.54",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 155581,
+    "name": "Gunama",
+    "allCategories": "Pizzas,Empanadas,Cafetería,Milanesas,Sándwiches,Bebidas,Postres,Tartas",
+    "ratingScore": "4.49",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 187750,
+    "name": "Amano - Uriburu",
+    "allCategories": "Pizzas,Empanadas,Postres",
+    "ratingScore": "4.43",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 160447,
+    "name": "Tea Connection Uriburu",
+    "allCategories": "",
+    "ratingScore": "4.28",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 154484,
+    "name": "Gout Gluten Free Café",
+    "allCategories": "Postres,Cupcakes,Tartas,Desayunos,Sándwiches,Empanadas",
+    "ratingScore": "4.47",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 116163,
+    "name": "Sabores Mirandinos - Tequeños",
+    "allCategories": "Comida Internacional,Pollo,Carnes",
+    "ratingScore": "4.74",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 168565,
+    "name": "Mi Brescia",
+    "allCategories": "Empanadas,Pizzas",
+    "ratingScore": "4.35",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 64611,
+    "name": "La Cucina",
+    "allCategories": "Pizzas,Milanesas,Empanadas,Ensaladas,Calzones,Pastas,Hamburguesas,Tortillas",
+    "ratingScore": "4.24",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 47207,
+    "name": "Valiente's",
+    "allCategories": "Milanesas,Ensaladas,Pescados y Mariscos,Parrilla,Desayunos,Menú del día",
+    "ratingScore": "4.76",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 56829,
+    "name": "Brioche Doree - Microcentro",
+    "allCategories": "Sándwiches,Postres,Tartas,Cafetería,Licuados y Jugos,Menú del día",
+    "ratingScore": "4.14",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 193629,
+    "name": "Abadía Deleuze San Nicolás",
+    "allCategories": "Tortillas,Ensaladas,Bebidas,Sándwiches,Milanesas,Pescados y Mariscos,Hamburguesas",
+    "ratingScore": "0",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 137058,
+    "name": "Tostado Café Club Plaza Houssay",
+    "allCategories": "Sándwiches,Cafetería,Licuados y Jugos,Postres,Ensaladas",
+    "ratingScore": "4.28",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 30,
+    "isNew": false
+  },
+  {
+    "id": 152285,
+    "name": "El Trébol Av Santa Fe",
+    "allCategories": "Sándwiches,Pastas,Pescados y Mariscos,Carnes,Lomitos,Tortillas,Pollo",
+    "ratingScore": "4.58",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 118281,
+    "name": "Pétalo",
+    "allCategories": "Pizzas,Menú del día,Empanadas,Pollo,Postres,Desayunos,Milanesas,Cafetería,Tartas,Papas Fritas,Pastas",
+    "ratingScore": "4.78",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 133872,
+    "name": "Paluchino Café",
+    "allCategories": "Hamburguesas,Sándwiches,Carnes,Ensaladas,Milanesas,Bebidas,Cafetería,Lomitos",
+    "ratingScore": "4.77",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 124422,
+    "name": "La Susana - Fábrica De Pastas",
+    "allCategories": "Tartas,Pastas,Empanadas",
+    "ratingScore": "4.30",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 59353,
+    "name": "Piadina Lab",
+    "allCategories": "Comida Vegana,Sándwiches",
+    "ratingScore": "4.93",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 115847,
+    "name": "Brozziano Empanadas Microcentro",
+    "allCategories": "Empanadas",
+    "ratingScore": "4.68",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 39764,
+    "name": "¡Quiero Más! Recoleta",
+    "allCategories": "Pastas,Postres,Tartas,Empanadas",
+    "ratingScore": "4.08",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 150449,
+    "name": "Restaurant Plus Ultra",
+    "allCategories": "Hamburguesas,Picadas,Carnes,Pastas,Sándwiches,Milanesas,Pollo,Tartas,Ensaladas",
+    "ratingScore": "4.68",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 159919,
+    "name": "Quimera Talcahuano",
+    "allCategories": "Pescados y Mariscos,Pastas,Carnes,Milanesas,Sándwiches,Hamburguesas,Pollo",
+    "ratingScore": "4.40",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 65475,
+    "name": "Balola Bar",
+    "allCategories": "Postres,Milanesas,Pastas,Parrilla,Pollo,Sándwiches,Cafetería,Tartas,Hamburguesas",
+    "ratingScore": "4.71",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 164832,
+    "name": "Multistore.baires",
+    "allCategories": "Hamburguesas,Sándwiches,Cafetería,Celíacos,Tartas",
+    "ratingScore": "4.00",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 40960,
+    "name": "Orégano Restobar",
+    "allCategories": "Pastas,Tortillas,Carnes,Ensaladas,Pollo,Milanesas,Desayunos,Pescados y Mariscos,Postres",
+    "ratingScore": "4.76",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 189814,
+    "name": "Tomasso - Balvanera",
+    "allCategories": "Bebidas,Pizzas,Empanadas",
+    "ratingScore": "4.57",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 109648,
+    "name": "Persicco Microcentro",
+    "allCategories": "Helados",
+    "ratingScore": "4.23",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 105517,
+    "name": "El Tropezón Avenida Callao 248",
+    "allCategories": "Postres,Pescados y Mariscos,Parrilla,Pastas,Menú del día,Cafetería",
+    "ratingScore": "4.61",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 191318,
+    "name": "Bunka Sushi - Microcentro",
+    "allCategories": "Sushi,Comida Japonesa",
+    "ratingScore": "4.75",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 191961,
+    "name": "Confitería Pesce",
+    "allCategories": "Sándwiches,Empanadas,Postres,Tartas",
+    "ratingScore": "3.35",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 61697,
+    "name": "Che Sushi Microcentro",
+    "allCategories": "Sushi,Poke",
+    "ratingScore": "4.44",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 148650,
+    "name": "Museo Del Jamón - Centro",
+    "allCategories": "Pescados y Mariscos,Tortillas,Carnes,Bebidas,Pastas,Pollo",
+    "ratingScore": "4.46",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 107669,
+    "name": "Peches Magda arepas, tequeños y cachapas",
+    "allCategories": "Hamburguesas,Ensaladas,Bebidas,Comida Internacional,Empanadas,Comida Vegetariana,Arepas",
+    "ratingScore": "4.44",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 10,
+    "isNew": false
+  },
+  {
+    "id": 150246,
+    "name": "Bar Ecuador",
+    "allCategories": "Menú del día,Pizzas,Bebidas",
+    "ratingScore": "3.35",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 113262,
+    "name": "Simple & Co - Juncal",
+    "allCategories": "Pollo,Sushi,Comida Vegana,Ensaladas,Licuados y Jugos,Empanadas,Tartas,Comida Vegetariana,Postres,Helados",
+    "ratingScore": "4.05",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 171178,
+    "name": "Café Martínez - Callao 156 Restaurant",
+    "allCategories": "Pollo,Ensaladas,Sándwiches,Licuados y Jugos,Postres",
+    "ratingScore": "3.00",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 168702,
+    "name": "Café Martínez - Av. Pueyrredón 2231 Restaurant",
+    "allCategories": "Postres,Licuados y Jugos,Ensaladas,Pollo,Sándwiches",
+    "ratingScore": "4.93",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 148277,
+    "name": "La Mejor Dupla Centro",
+    "allCategories": "Milanesas,Empanadas,Pizzas,Hamburguesas",
+    "ratingScore": "4.59",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 130411,
+    "name": "Los 36 billares - Buenos Aires",
+    "allCategories": "Sándwiches,Postres,Menú del día,Empanadas,Cafetería,Pizzas,Ensaladas",
+    "ratingScore": "4.61",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 62071,
+    "name": "Bar The Bar",
+    "allCategories": "Tartas,Pastas,Milanesas,Bebidas,Sándwiches",
+    "ratingScore": "4.43",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 122965,
+    "name": "Layla's Market",
+    "allCategories": "Sándwiches,Bebidas,Picadas,Menú del día",
+    "ratingScore": "4.68",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 150082,
+    "name": "Sazon Av. Leandro N. Alem",
+    "allCategories": "Cafetería,Empanadas",
+    "ratingScore": "4.50",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 161220,
+    "name": "BA Point - Helados",
+    "allCategories": "Cupcakes,Pescados y Mariscos,Sándwiches,Ensaladas,Postres,Helados",
+    "ratingScore": "4.41",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 168692,
+    "name": "Café Martínez - Monserrat Restaurant",
+    "allCategories": "Ensaladas,Sándwiches,Postres,Pollo,Licuados y Jugos",
+    "ratingScore": "4.44",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 195164,
+    "name": "Green Eat Florida",
+    "allCategories": "Hamburguesas,Helados,Cafetería,Postres,Desayunos,Sándwiches",
+    "ratingScore": "4.43",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 161445,
+    "name": "Sara Cafe Buenos Aires",
+    "allCategories": "Sándwiches,Postres,Empanadas,Cafetería,Tartas,Hamburguesas,Ensaladas,Licuados y Jugos",
+    "ratingScore": "2.70",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 167085,
+    "name": "Café Martínez - Av Rivadavia 1599 Restaurant",
+    "allCategories": "Postres,Ensaladas,Sándwiches,Pollo,Licuados y Jugos",
+    "ratingScore": "4.57",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 164436,
+    "name": "El Globo",
+    "allCategories": "Pollo,Empanadas,Pescados y Mariscos,Postres,Tortillas,Parrilla,Pastas,Hamburguesas",
+    "ratingScore": "4.72",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 139649,
+    "name": "Ensaladas y Más",
+    "allCategories": "Comida China,Ensaladas,Wraps,Sándwiches,Papas Fritas",
+    "ratingScore": "4.28",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 139303,
+    "name": "Cocina 630",
+    "allCategories": "Milanesas,Sándwiches,Empanadas,Tartas,Pollo,Ensaladas",
+    "ratingScore": "4.87",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 170300,
+    "name": "La Empanadería Mitre",
+    "allCategories": "Empanadas,Cafetería",
+    "ratingScore": "4.50",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 120262,
+    "name": "Latino Sándwich",
+    "allCategories": "Pastas,Papas Fritas,Pollo,Milanesas,Comida Internacional,Sándwiches,Postres,Menú del día,Pescados y Mariscos,Ensaladas",
+    "ratingScore": "4.62",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 146364,
+    "name": "San Miguel Av. Pueyrredón",
+    "allCategories": "Pastas,Pollo,Postres,Ensaladas,Menú del día,Bebidas,Pizzas,Milanesas",
+    "ratingScore": "4.27",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 156325,
+    "name": "Biblos Recoleta",
+    "allCategories": "Postres,Pizzas,Empanadas",
+    "ratingScore": "3.45",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 169989,
+    "name": "Mamá Cora Pueyrredon",
+    "allCategories": "Bebidas,Pastas,Postres",
+    "ratingScore": "4.29",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 150275,
+    "name": "Sushi Phone Fire",
+    "allCategories": "Pescados y Mariscos,Sushi,Pollo,Comida Japonesa",
+    "ratingScore": "3.95",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 164900,
+    "name": "Green Eat Pueyrredón",
+    "allCategories": "Hamburguesas,Desayunos,Sándwiches,Cafetería,Postres,Helados",
+    "ratingScore": "4.59",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 42994,
+    "name": "Public Delivery",
+    "allCategories": "Carnes,Comida Peruana,Sushi,Comida Japonesa,Pescados y Mariscos,Empanadas,Poke",
+    "ratingScore": "4.43",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 89,
+    "discount": 20,
+    "isNew": false
+  },
+  {
+    "id": 64687,
+    "name": "Kiosco de Empanadas Congreso",
+    "allCategories": "Empanadas,Pizzas",
+    "ratingScore": "4.65",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 59018,
+    "name": "Harper",
+    "allCategories": "Sándwiches,Cafetería,Licuados y Jugos,Tartas,Wraps,Ensaladas",
+    "ratingScore": "4.30",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 155188,
+    "name": "Le Moulin de la Fleur - Pueyrredón",
+    "allCategories": "Cafetería,Sándwiches,Tartas",
+    "ratingScore": "4.43",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 139267,
+    "name": "Vittorio",
+    "allCategories": "Carnes,Bebidas,Pizzas,Calzones,Empanadas,Ensaladas,Pescados y Mariscos",
+    "ratingScore": "4.36",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 191468,
+    "name": "Cafe Bar San Vicente",
+    "allCategories": "Tartas,Carnes,Desayunos,Pollo,Sándwiches,Milanesas,Empanadas",
+    "ratingScore": "4.68",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 152783,
+    "name": "Chori 33",
+    "allCategories": "Empanadas,Menú del día,Hamburguesas,Bebidas,Papas Fritas,Lomitos",
+    "ratingScore": "4.08",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 154523,
+    "name": "Torcuato Restaurante",
+    "allCategories": "Tortillas,Pizzas,Milanesas,Ensaladas,Pollo,Pescados y Mariscos,Bebidas",
+    "ratingScore": "4.56",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 108564,
+    "name": "Traiano Laprida",
+    "allCategories": "Helados",
+    "ratingScore": "4.63",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 146357,
+    "name": "El Olmo",
+    "allCategories": "Empanadas,Menú del día,Pollo,Pastas,Pizzas",
+    "ratingScore": "4.61",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 140207,
+    "name": "Arepa's Club",
+    "allCategories": "Arepas,Comida Internacional,Menú del día",
+    "ratingScore": "4.68",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 152075,
+    "name": "Delicious - Recoleta",
+    "allCategories": "Hamburguesas,Sándwiches,Desayunos,Cafetería,Carnes",
+    "ratingScore": "4.69",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 181526,
+    "name": "Helado De Capadocia",
+    "allCategories": "Helados,Postres",
+    "ratingScore": "4.63",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 26088,
+    "name": "Food & Coffee",
+    "allCategories": "Hamburguesas,Desayunos,Cafetería,Sándwiches,Milanesas,Postres,Ensaladas,Pollo,Tartas",
+    "ratingScore": "3.10",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 48349,
+    "name": "Tagliata",
+    "allCategories": "Milanesas,Empanadas,Sándwiches,Pizzas,Bebidas,Cafetería",
+    "ratingScore": "4.53",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 190150,
+    "name": "LQF Pizza En Cono Recoleta",
+    "allCategories": "Pizzas",
+    "ratingScore": "4.15",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 186220,
+    "name": "Pizza En Cono Av Corrientes",
+    "allCategories": "Pizzas,Empanadas",
+    "ratingScore": "3.96",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 138006,
+    "name": "Pablos Low Cost",
+    "allCategories": "Pizzas,Cafetería,Empanadas,Helados",
+    "ratingScore": "4.40",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 156298,
+    "name": "Cabildo De Buenos Aires",
+    "allCategories": "Desayunos,Pollo,Milanesas,Pizzas,Pastas,Empanadas",
+    "ratingScore": "4.47",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 112355,
+    "name": "Partners",
+    "allCategories": "Pizzas,Empanadas,Pollo,Pescados y Mariscos,Tartas,Milanesas,Pastas,Sándwiches,Carnes",
+    "ratingScore": "3.93",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 150435,
+    "name": "New Times Restaurant",
+    "allCategories": "Sándwiches,Milanesas,Pollo,Empanadas,Pastas",
+    "ratingScore": "4.68",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 123864,
+    "name": "Toller Kaffee",
+    "allCategories": "Menú del día,Pizzas,Milanesas,Ensaladas,Postres,Sándwiches,Bebidas",
+    "ratingScore": "3.86",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 144563,
+    "name": "Viejo Alsina",
+    "allCategories": "Pollo,Pescados y Mariscos,Bebidas,Pastas,Milanesas,Postres,Parrilla",
+    "ratingScore": "4.73",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 161486,
+    "name": "Cocinan Los Diaz",
+    "allCategories": "Milanesas,Hamburguesas,Menú del día,Carnes,Pollo",
+    "ratingScore": "3.85",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 145943,
+    "name": "Jay's",
+    "allCategories": "Hamburguesas,Desayunos,Sándwiches,Pollo",
+    "ratingScore": "4.80",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 167540,
+    "name": "Fubolmania Recoleta",
+    "allCategories": "Pastas,Pizzas,Hamburguesas,Empanadas,Milanesas",
+    "ratingScore": "4.50",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 109,
+    "discount": 30,
+    "isNew": false
+  },
+  {
+    "id": 138514,
+    "name": "Bigotes de Azúcar",
+    "allCategories": "Helados",
+    "ratingScore": "4.66",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 186545,
+    "name": "El Beber Llama - Recoleta",
+    "allCategories": "Bebidas",
+    "ratingScore": "0",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 31691,
+    "name": "Heladería Barcaccia",
+    "allCategories": "Helados",
+    "ratingScore": "4.80",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 20,
+    "isNew": false
+  },
+  {
+    "id": 35037,
+    "name": "Yafo Kosher Once",
+    "allCategories": "Sándwiches,Comida Árabe,Milanesas,Ensaladas,Pescados y Mariscos,Pollo",
+    "ratingScore": "4.94",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 154415,
+    "name": "Los Chicos - Pizzería y Minutas",
+    "allCategories": "Sándwiches,Cafetería,Empanadas,Pizzas,Milanesas,Ensaladas",
+    "ratingScore": "4.60",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 190795,
+    "name": "Sabores Express Corrientes",
+    "allCategories": "Cafetería,Pizzas,Empanadas",
+    "ratingScore": "0",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 44728,
+    "name": "D'oro Italian Bar",
+    "allCategories": "Pastas,Bebidas",
+    "ratingScore": "4.78",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 20,
+    "isNew": false
+  },
+  {
+    "id": 144440,
+    "name": "El Punto Café & Lunch",
+    "allCategories": "Milanesas,Arepas,Ensaladas,Empanadas,Hamburguesas,Sándwiches,Pollo,Comida Internacional",
+    "ratingScore": "4.68",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 169076,
+    "name": "Las Leñas Bartolomé Mitré",
+    "allCategories": "Sándwiches,Tortillas,Milanesas,Hamburguesas,Desayunos,Pastas,Carnes",
+    "ratingScore": "4.93",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 113105,
+    "name": "Brozziano Empanadas Palermo",
+    "allCategories": "Empanadas",
+    "ratingScore": "4.43",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 190308,
+    "name": "Solo Empanadas Once 2",
+    "allCategories": "Pizzas,Empanadas",
+    "ratingScore": "4.00",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 176842,
+    "name": "Flymorfi - Aguero",
+    "allCategories": "Empanadas,Sándwiches,Pizzas,Bebidas",
+    "ratingScore": "4.57",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 147736,
+    "name": "Brozziano Empanadas Monserrat",
+    "allCategories": "Empanadas,Pizzas",
+    "ratingScore": "4.45",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 152895,
+    "name": "El Trebol - Monserrat",
+    "allCategories": "Pastas,Empanadas,Cafetería,Menú del día",
+    "ratingScore": "4.27",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 195572,
+    "name": "Patagonia Danuë - Recoleta",
+    "allCategories": "Postres,Helados",
+    "ratingScore": "0",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 171147,
+    "name": "Café Martínez - Av Córdoba 2677 Restaurant",
+    "allCategories": "Postres,Licuados y Jugos,Pollo,Sándwiches,Ensaladas",
+    "ratingScore": "4.43",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 23128,
+    "name": "Vos y Yo",
+    "allCategories": "Carnes,Milanesas,Pollo,Tortillas,Pastas,Pescados y Mariscos,Ensaladas,Sándwiches",
+    "ratingScore": "4.55",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 190637,
+    "name": "Tomasso Agüero",
+    "allCategories": "Empanadas,Bebidas,Pizzas",
+    "ratingScore": "4.37",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 159972,
+    "name": "Jana",
+    "allCategories": "Empanadas,Ensaladas,Sándwiches,Tartas",
+    "ratingScore": "4.78",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 175342,
+    "name": "SANTO BOCADO - Recoleta",
+    "allCategories": "Postres",
+    "ratingScore": "4.82",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 58677,
+    "name": "Central - Comidas al Paso",
+    "allCategories": "Calzones,Milanesas,Pescados y Mariscos,Parrilla,Pastas,Pollo,Comida Vegetariana,Desayunos,Ensaladas,Tortillas,Tartas",
+    "ratingScore": "4.48",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 131118,
+    "name": "Kentucky - Anchorena",
+    "allCategories": "Postres,Pizzas,Empanadas,Bebidas",
+    "ratingScore": "4.21",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 62615,
+    "name": "Sushi Lives Recoleta",
+    "allCategories": "Postres,Poke,Comida Vegetariana,Comida Japonesa,Sushi,Pescados y Mariscos,Menú del día",
+    "ratingScore": "4.76",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 20,
+    "isNew": false
+  },
+  {
+    "id": 26062,
+    "name": "Alameda Restaurante",
+    "allCategories": "Pizzas,Empanadas,Milanesas,Pastas,Pollo,Ensaladas,Carnes,Hamburguesas",
+    "ratingScore": "4.48",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 48134,
+    "name": "Plan B",
+    "allCategories": "Cafetería,Ensaladas,Carnes,Sándwiches,Pizzas,Milanesas,Menú del día",
+    "ratingScore": "4.74",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 158556,
+    "name": "La Americana",
+    "allCategories": "Postres,Pizzas,Empanadas",
+    "ratingScore": "4.47",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 80,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 67314,
+    "name": "Templar Bar",
+    "allCategories": "Pizzas,Postres,Hamburguesas,Pastas,Pollo,Milanesas,Ensaladas",
+    "ratingScore": "4.43",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 40,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 419,
+    "name": "Sushi Phone",
+    "allCategories": "Empanadas,Comida Vegetariana,Pescados y Mariscos,Comida Peruana,Bebidas,Pollo,Comida Japonesa,Comida Vegana,Sushi",
+    "ratingScore": "3.88",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 0,
+    "discount": 20,
+    "isNew": false
+  },
+  {
+    "id": 50615,
+    "name": "La Nueva Cocinita Congreso",
+    "allCategories": "Pizzas,Bebidas,Empanadas,Calzones",
+    "ratingScore": "4.38",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 46155,
+    "name": "La Farola de Congreso",
+    "allCategories": "Hamburguesas,Pollo,Menú del día,Postres,Empanadas,Tartas,Pizzas,Parrilla,Milanesas,Papas Fritas,Pastas",
+    "ratingScore": "3.67",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 50,
+    "discount": 35,
+    "isNew": false
+  },
+  {
+    "id": 45500,
+    "name": "Locos Wok",
+    "allCategories": "Woks,Pollo,Pastas,Bebidas",
+    "ratingScore": "4.23",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 0,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 57767,
+    "name": "Laureana Parrilla",
+    "allCategories": "Sándwiches,Parrilla,Postres,Ensaladas,Bebidas",
+    "ratingScore": "4.42",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 113096,
+    "name": "Brozziano Empanadas Congreso",
+    "allCategories": "Empanadas",
+    "ratingScore": "4.21",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 130787,
+    "name": "Quiero Muzza Congreso",
+    "allCategories": "Bebidas,Empanadas,Pizzas",
+    "ratingScore": "4.52",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 146849,
+    "name": "Panadería y Confitería Maruja",
+    "allCategories": "Sándwiches,Tartas",
+    "ratingScore": "4.65",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 102514,
+    "name": "La Cacerola de Monserrat",
+    "allCategories": "Empanadas,Milanesas,Ensaladas,Pollo,Pastas,Tortillas,Sándwiches,Carnes,Pizzas",
+    "ratingScore": "4.20",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 190149,
+    "name": "Sabores Express Balvanera",
+    "allCategories": "Pizzas,Empanadas",
+    "ratingScore": "4.79",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 179752,
+    "name": "Cocina La Nona",
+    "allCategories": "Milanesas,Pastas,Sándwiches,Empanadas,Postres,Tartas,Ensaladas",
+    "ratingScore": "0",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 185936,
+    "name": "Cafier",
+    "allCategories": "Cafetería,Cupcakes,Empanadas",
+    "ratingScore": "5.00",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": true
+  },
+  {
+    "id": 136045,
+    "name": "La Cantina De Doña Elsa",
+    "allCategories": "Cafetería,Milanesas,Bebidas,Postres,Sándwiches",
+    "ratingScore": "4.61",
+    "deliveryTime": "Entre 45' y 60'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 129659,
+    "name": "Ricatti Once",
+    "allCategories": "Pizzas,Cafetería,Empanadas",
+    "ratingScore": "4.78",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 177161,
+    "name": "La Farola Del Once",
+    "allCategories": "Empanadas,Carnes,Pizzas,Milanesas,Sándwiches,Pollo",
+    "ratingScore": "4.43",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 177183,
+    "name": "La Nueva Reina Monserrat",
+    "allCategories": "Sándwiches,Empanadas,Postres,Milanesas",
+    "ratingScore": "4.62",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 173211,
+    "name": "El Encuentro Salta",
+    "allCategories": "Milanesas,Empanadas,Hamburguesas,Bebidas",
+    "ratingScore": "4.74",
+    "deliveryTime": "Entre 30' y 45'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  },
+  {
+    "id": 138152,
+    "name": "Brozziano Empanadas Abasto",
+    "allCategories": "Empanadas,Bebidas",
+    "ratingScore": "4.69",
+    "deliveryTime": "Entre 15' y 30'",
+    "shippingAmount": 109,
+    "discount": 0,
+    "isNew": false
+  }
+]

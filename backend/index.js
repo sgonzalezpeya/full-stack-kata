@@ -4,34 +4,75 @@ const paginate = require("paginate-array");
 const randomFailureMiddleware = require("./randomFailureMiddleware");
 const randomDelay = require("./randomDelay");
 
-const database = require("./database.json");
-const e = require("express");
+/** DATABASES */
+const carsDB = require("./databases/cars-database.json");
+const restaurantsDB = require("./databases/restaurants-database.json");
+const kiosksDB = require("./databases/kiosks-database.json");
 
 const app = express();
-const port = 8084;
+const port = 8080;
 
 app.use(bodyParser.json());
 app.use(randomDelay);
 app.use(randomFailureMiddleware(0.2));
 
-app.get("/api/cars", (req, res) => {
+const sortAndPaginateMiddleware = (sortAttr) => (req, res) => {
   const page = req.query.p;
-  if (!page) res.json(database);
-  else res.json(paginate(database, page, 100));
-});
+  const sort = req.query.sort;
+  let db = res.locals.db;
+
+  if (sort) {
+    db = db.sort((a, b) => {
+      if (a[sortAttr] > b[sortAttr]) return 1;
+      if (a[sortAttr] < b[sortAttr]) return -1;
+      return 0;
+    });
+  }
+
+  if (!page) res.json(db);
+  else res.json(paginate(db, page, 100));
+  res.end();
+};
+
+app.get(
+  "/api/restaurants",
+  (req, res, next) => {
+    res.locals.db = restaurantsDB;
+    next();
+  },
+  sortAndPaginateMiddleware("name")
+);
+
+app.get(
+  "/api/kiosks",
+  (req, res, next) => {
+    res.locals.db = kiosksDB;
+    next();
+  },
+  sortAndPaginateMiddleware("vendor")
+);
+
+app.get(
+  "/api/cars",
+  (req, res, next) => {
+    res.locals.db = carsDB;
+    next();
+  },
+  sortAndPaginateMiddleware("make")
+);
 
 app.get("/api/cars/:id", (req, res) => {
-  res.json(database.find((car) => car.id == req.params.id));
+  res.json(carsDB.find((car) => car.id == req.params.id));
 });
 
 app.patch("/api/cars/:id", (req, res) => {
   const starred = Boolean(req.body.starred);
 
-  database.forEach((car) => {
+  carsDB.forEach((car) => {
     if (car.id == req.params.id) car.starred = starred;
   });
 
-  res.json(database.find((car) => car.id == req.params.id));
+  res.json(carsDB.find((car) => car.id == req.params.id));
 });
 
 app.listen(port, () => {
