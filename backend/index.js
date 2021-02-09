@@ -6,11 +6,12 @@ const randomDelay = require("./randomDelay");
 
 /** DATABASES */
 const carsDB = require("./databases/cars-database.json");
+const motorbikesDB = require("./databases/motorbikes-database.json");
 const restaurantsDB = require("./databases/restaurants-database.json");
 const kiosksDB = require("./databases/kiosks-database.json");
 
 const app = express();
-const port = 8080;
+const port = 8090;
 
 app.use(bodyParser.json());
 app.use(randomDelay);
@@ -73,6 +74,29 @@ app.patch("/api/cars/:id", (req, res) => {
   });
 
   res.json(carsDB.find((car) => car.id == req.params.id));
+});
+
+app.get(
+  "/api/motorbikes",
+  (req, res, next) => {
+    res.locals.db = motorbikesDB;
+    next();
+  },
+  sortAndPaginateMiddleware("make")
+);
+
+app.get("/api/motorbikes/:id", (req, res) => {
+  res.json(motorbikesDB.find((car) => car.id == req.params.id));
+});
+
+app.patch("/api/motorbikes/:id", (req, res) => {
+  const starred = Boolean(req.body.starred);
+
+  motorbikesDB.forEach((car) => {
+    if (car.id == req.params.id) car.starred = starred;
+  });
+
+  res.json(motorbikesDB.find((car) => car.id == req.params.id));
 });
 
 app.listen(port, () => {
