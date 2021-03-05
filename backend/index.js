@@ -11,9 +11,11 @@ const restaurantsDB = require("./databases/restaurants-database.json");
 const kiosksDB = require("./databases/kiosks-database.json");
 
 const app = express();
+const cors = require("cors");
 const port = 8090;
 
 app.use(bodyParser.json());
+app.use(cors());
 app.use(randomDelay);
 app.use(randomFailureMiddleware(0.2));
 
