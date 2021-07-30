@@ -9,6 +9,8 @@ const carsDB = require("./databases/cars-database.json");
 const motorbikesDB = require("./databases/motorbikes-database.json");
 const restaurantsDB = require("./databases/restaurants-database.json");
 const kiosksDB = require("./databases/kiosks-database.json");
+const movies = require("./databases/movies.json");
+const emojis = require("./databases/emojis.json");
 
 const app = express();
 const cors = require("cors");
@@ -99,6 +101,31 @@ app.patch("/api/motorbikes/:id", (req, res) => {
   });
 
   res.json(motorbikesDB.find((car) => car.id == req.params.id));
+});
+
+app.get("/api/movies", (req, res) => {
+  if (req.query.search) {
+    return res.json(
+      movies.filter((movie) =>
+        movie.title.toLowerCase().includes(req.query.search)
+      )
+    );
+  }
+  res.json(movies);
+});
+
+app.get("/api/emojis", (req, res) => {
+  if (req.query.search) {
+    return res.json(
+      Object.keys(emojis)
+        .filter((key) => key.includes(req.query.search))
+        .reduce((obj, key) => {
+          obj[key] = emojis[key];
+          return obj;
+        }, {})
+    );
+  }
+  return res.json(emojis);
 });
 
 app.listen(port, () => {
