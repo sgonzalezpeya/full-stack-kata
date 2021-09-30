@@ -40,7 +40,23 @@ const sortAndPaginateMiddleware = (sortAttr) => (req, res) => {
 app.get(
   "/api/restaurants",
   (req, res, next) => {
-    res.locals.db = restaurantsDB;
+    const { query } = req || {};
+    const { search } = query;
+
+    // Replace logo url
+    restaurantsDB.forEach(
+      (rest) =>
+        (rest.logo = "https://source.unsplash.com/random/?food,restaurant")
+    );
+    if (search) {
+      const filter = restaurantsDB.filter((restaurant) =>
+        restaurant.name.includes(search)
+      );
+      res.locals.db = filter;
+    } else {
+      res.locals.db = restaurantsDB;
+    }
+
     next();
   },
   sortAndPaginateMiddleware("name")
