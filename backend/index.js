@@ -43,6 +43,12 @@ app.get(
     const { query } = req || {};
     const { search } = query;
 
+    const formatString = (string) =>
+      string
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLocaleLowerCase();
+
     // Replace logo url
     restaurantsDB.forEach(
       (rest) =>
@@ -50,7 +56,7 @@ app.get(
     );
     if (search) {
       const filter = restaurantsDB.filter((restaurant) =>
-        restaurant.name.includes(search)
+        formatString(restaurant.name).includes(formatString(search))
       );
       res.locals.db = filter;
     } else {
