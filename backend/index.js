@@ -1,19 +1,21 @@
-const express = require("express");
-const bodyParser = require("body-parser");
-const paginate = require("paginate-array");
-const randomFailureMiddleware = require("./randomFailureMiddleware");
-const randomDelay = require("./randomDelay");
+const express = require('express');
+const bodyParser = require('body-parser');
+const paginate = require('paginate-array');
+const randomFailureMiddleware = require('./randomFailureMiddleware');
+const randomDelay = require('./randomDelay');
 
 /** DATABASES */
-const carsDB = require("./databases/cars-database.json");
-const motorbikesDB = require("./databases/motorbikes-database.json");
-const restaurantsDB = require("./databases/restaurants-database.json");
-const kiosksDB = require("./databases/kiosks-database.json");
-const movies = require("./databases/movies.json");
-const emojis = require("./databases/emojis.json");
+const carsDB = require('./databases/cars-database.json');
+const motorbikesDB = require('./databases/motorbikes-database.json');
+const restaurantsDB = require('./databases/restaurants-database.json');
+const restaurantsV2DB = require('./databases/restaurants-v2.json');
+const deliveryAreasDB = require('./databases/delivery-areas.json');
+const kiosksDB = require('./databases/kiosks-database.json');
+const movies = require('./databases/movies.json');
+const emojis = require('./databases/emojis.json');
 
 const app = express();
-const cors = require("cors");
+const cors = require('cors');
 const port = 8090;
 
 app.use(bodyParser.json());
@@ -40,21 +42,21 @@ const sortAndPaginateMiddleware = (sortAttr) => (req, res) => {
 };
 
 app.get(
-  "/api/restaurants",
+  '/api/restaurants',
   (req, res, next) => {
     const { query } = req || {};
     const { search } = query;
 
     const formatString = (string) =>
       string
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "")
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
         .toLocaleLowerCase();
 
     // Replace logo url
     restaurantsDB.forEach(
       (rest) =>
-        (rest.logo = "https://source.unsplash.com/random/?food,restaurant")
+        (rest.logo = 'https://source.unsplash.com/random/?food,restaurant')
     );
     if (search) {
       const filter = restaurantsDB.filter((restaurant) =>
@@ -67,32 +69,67 @@ app.get(
 
     next();
   },
-  sortAndPaginateMiddleware("name")
+  sortAndPaginateMiddleware('name')
 );
 
 app.get(
-  "/api/kiosks",
+  '/v2/api/restaurants',
+  (req, res, next) => {
+    const { query } = req || {};
+    const { search } = query;
+
+    const formatString = (string) =>
+      string
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .toLocaleLowerCase();
+
+    // Replace logo url
+    restaurantsV2DB.forEach(
+      (rest) =>
+        (rest.logo = 'https://source.unsplash.com/random/?food,restaurant')
+    );
+    if (search) {
+      const filter = restaurantsV2DB.filter((restaurant) =>
+        formatString(restaurant.name).includes(formatString(search))
+      );
+      res.locals.db = filter;
+    } else {
+      res.locals.db = restaurantsV2DB;
+    }
+
+    next();
+  },
+  sortAndPaginateMiddleware('name')
+);
+
+app.post('/v2/api/rest/getDeliveryAreas', (req, res, next) => {
+  return res.status(201).json(deliveryAreasDB);
+});
+
+app.get(
+  '/api/kiosks',
   (req, res, next) => {
     res.locals.db = kiosksDB;
     next();
   },
-  sortAndPaginateMiddleware("vendor")
+  sortAndPaginateMiddleware('vendor')
 );
 
 app.get(
-  "/api/cars",
+  '/api/cars',
   (req, res, next) => {
     res.locals.db = carsDB;
     next();
   },
-  sortAndPaginateMiddleware("make")
+  sortAndPaginateMiddleware('make')
 );
 
-app.get("/api/cars/:id", (req, res) => {
+app.get('/api/cars/:id', (req, res) => {
   res.json(carsDB.find((car) => car.id == req.params.id));
 });
 
-app.patch("/api/cars/:id", (req, res) => {
+app.patch('/api/cars/:id', (req, res) => {
   const starred = Boolean(req.body.starred);
 
   carsDB.forEach((car) => {
@@ -103,19 +140,19 @@ app.patch("/api/cars/:id", (req, res) => {
 });
 
 app.get(
-  "/api/motorbikes",
+  '/api/motorbikes',
   (req, res, next) => {
     res.locals.db = motorbikesDB;
     next();
   },
-  sortAndPaginateMiddleware("make")
+  sortAndPaginateMiddleware('make')
 );
 
-app.get("/api/motorbikes/:id", (req, res) => {
+app.get('/api/motorbikes/:id', (req, res) => {
   res.json(motorbikesDB.find((car) => car.id == req.params.id));
 });
 
-app.patch("/api/motorbikes/:id", (req, res) => {
+app.patch('/api/motorbikes/:id', (req, res) => {
   const starred = Boolean(req.body.starred);
 
   motorbikesDB.forEach((car) => {
@@ -125,7 +162,7 @@ app.patch("/api/motorbikes/:id", (req, res) => {
   res.json(motorbikesDB.find((car) => car.id == req.params.id));
 });
 
-app.get("/api/movies", (req, res) => {
+app.get('/api/movies', (req, res) => {
   if (req.query.search) {
     return res.json(
       movies.filter((movie) =>
@@ -136,7 +173,7 @@ app.get("/api/movies", (req, res) => {
   res.json(movies);
 });
 
-app.get("/api/emojis", (req, res) => {
+app.get('/api/emojis', (req, res) => {
   if (req.query.search) {
     return res.json(
       Object.keys(emojis)
