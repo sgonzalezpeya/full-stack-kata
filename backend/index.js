@@ -18,6 +18,7 @@ const app = express();
 const cors = require('cors');
 const port = 8090;
 
+app.use(express.static(__dirname + '/static'));
 app.use(bodyParser.json());
 app.use(cors());
 app.use(randomDelay);
