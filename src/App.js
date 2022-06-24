@@ -1,15 +1,30 @@
-import React from "react";
-import logo from "./icons/logo.svg";
-import "./App.css";
+import React from 'react';
+import List from './components/List';
 
 function App() {
+  const MOCK_DATA = [
+    {
+      id: 163338,
+      name: 'Tangos Burger',
+      allCategories: 'Pollo,Sándwiches,Hamburguesas,Milanesas,Postres',
+      ratingScore: 4.37,
+      discount: 10,
+      isNew: false,
+      logo: 'logo-tango-01burger.png',
+      opened: true,
+      deliveryAreaId: 4,
+      deliveryArea: {
+        id: 4,
+        shippingAmount: 96,
+        deliveryTime: "Entre 25' y 30'",
+      },
+    },
+  ];
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Full Stack Kata</p>
-      </header>
-    </div>
+    <main>
+      <List data={MOCK_DATA} />
+    </main>
   );
 }
 
