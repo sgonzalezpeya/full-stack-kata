@@ -239,7 +239,7 @@
     "isNew": false,
     "logo": "gros-cafe-resto.jpg",
     "opened": false,
-    "deliveryAreaId": 31
+    "deliveryAreaId": 1
   },
   {
     "id": 178933,
@@ -547,7 +547,7 @@
     "isNew": false,
     "logo": "fabrica-de-pizzas-quilmes.jpg",
     "opened": false,
-    "deliveryAreaId": 31
+    "deliveryAreaId": 1
   },
   {
     "id": 145853,
@@ -965,7 +965,7 @@
     "isNew": false,
     "logo": "logo-new-un-loco-bar.jpg",
     "opened": false,
-    "deliveryAreaId": 31
+    "deliveryAreaId": 1
   },
   {
     "id": 118194,
@@ -1306,7 +1306,7 @@
     "isNew": true,
     "logo": "sabores-express-microcentro.jpg",
     "opened": true,
-    "deliveryAreaId": 31
+    "deliveryAreaId": 1
   },
   {
     "id": 63691,
@@ -1779,7 +1779,7 @@
     "isNew": false,
     "logo": "logolosmaestrosrecoleta.jpeg",
     "opened": false,
-    "deliveryAreaId": 31
+    "deliveryAreaId": 1
   },
   {
     "id": 33488,
@@ -2131,7 +2131,7 @@
     "isNew": false,
     "logo": "la-choripaneria-reconquista.jpg",
     "opened": true,
-    "deliveryAreaId": 31
+    "deliveryAreaId": 1
   },
   {
     "id": 142422,
@@ -2164,7 +2164,7 @@
     "isNew": false,
     "logo": "cafe-martinez-sarmiento-1406-restaurant-jpg.jpg",
     "opened": true,
-    "deliveryAreaId": 31
+    "deliveryAreaId": 1
   },
   {
     "id": 167184,
