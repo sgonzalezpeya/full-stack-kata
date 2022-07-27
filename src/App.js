@@ -10,7 +10,7 @@ function App() {
       ratingScore: 4.37,
       discount: 10,
       isNew: false,
-      logo: 'logo-tango-01burger.png',
+      logo: 'https://source.unsplash.com/random/?food,restaurant',
       opened: true,
       deliveryAreaId: 4,
       deliveryArea: {
